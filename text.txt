@@ -1,1 +1,2 @@
 i am rohit and learning git
+and now some changes
