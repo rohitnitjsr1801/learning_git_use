@@ -5,7 +5,9 @@ body {
     margin: 0;
     padding: 0;
 }
-
+.options-cont:hover {
+        background-color:deepskyblue;
+}
 .options-cont {
     height: 4rem;
     width: 3.5rem;
